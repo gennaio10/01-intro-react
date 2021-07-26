@@ -13,8 +13,3 @@ const [ nombre, ges ] = arr;
 
 console.log(nombre);
 ges();
-
-
-
-
-
